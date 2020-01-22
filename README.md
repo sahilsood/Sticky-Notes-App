@@ -1,6 +1,6 @@
 # Sticky-Notes-App
 
-Sticky Notes App is a taking app written in accordance to the MVVM architecture. It mmplements the new androidx libraries and stores data locally in SQLite database using Room Persistence library.
+Sticky Notes App is a taking app written in accordance to the MVVM architecture. It implements the new androidx libraries and stores data locally in SQLite database using Room Persistence library.
 
 ![alt text](https://github.com/sahilsood/Sticky-Notes-App/blob/master/notesapp.png)
 
