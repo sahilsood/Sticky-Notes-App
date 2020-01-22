@@ -1,6 +1,12 @@
 # Sticky-Notes-App
 
-Note taking app inspired by the Coding in Flow. Implements the new androidx libraries. Tried staying loyal to naming and structure of the example application to make it easier to compare and understand.
+Sticky Notes App is a taking app written in accordance to the MVVM architecture. It mmplements the new androidx libraries and stores data locally in SQLite database.
+
+![alt text](https://github.com/sahilsood/Sticky-Notes-App/blob/master/notesapp.png)
+
+Please, copy this code on your website to accredit the author:
+<a href="http://www.freepik.com">Designed by rawpixel.com / Freepik</a>
+Designed by rawpixel.com / Freepik
 
 First video for the series can be found here.
 
