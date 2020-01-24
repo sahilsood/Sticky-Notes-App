@@ -11,6 +11,6 @@ ViewModel
 ListAdapter for animations on data changes
 App supports various database queries & swipe to delete function on the RecyclerView. Utilizes recent ListAdapter library to create animations possible on dataset changes.
 
-![alt text](https://github.com/sahilsood/Sticky-Notes-App/blob/master/notesapp.png)
+![Screenshot](notesapp.png)
 
 Mockkup Designed by: <a href="http://www.freepik.com">Designed by rawpixel.com / Freepik</a>
